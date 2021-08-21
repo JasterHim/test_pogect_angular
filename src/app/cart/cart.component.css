@@ -1,0 +1,33 @@
+.external {
+    /* width: 300px;
+    height: 100px; */
+    padding: .5rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px dashed black;
+    display: flex;
+
+}
+
+/* div {
+    display: flex;
+} */
+.time {
+    margin: 2px;
+}
+
+.text {
+    margin: 2px;
+}
+
+.butt {
+    margin: 2px;
+}
+button {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+h2 {
+    margin-bottom: .5rem;
+}
