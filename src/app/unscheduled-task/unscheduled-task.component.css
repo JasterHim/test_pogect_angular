@@ -1,0 +1,22 @@
+.body {
+    height: 80vh;
+    margin: 4px;
+    padding: 5px;
+    border: 1.5px solid gray;
+    border-radius: 5%;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.task{
+    width: 35vw;
+    margin-top: 10px;
+    border: 1px dashed gray;
+    border-radius: 5%;
+    background: rgb(39, 140, 255);
+    transition: 0.5s;
+}
+.task:hover{
+    background: rgb(10, 84, 221);
+}

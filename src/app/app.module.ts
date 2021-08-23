@@ -4,11 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { CartComponent } from './cart/cart.component';
+import { UnscheduledTaskComponent } from './unscheduled-task/unscheduled-task.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CartComponent
+    CartComponent,
+    UnscheduledTaskComponent
   ],
   imports: [
     BrowserModule,
